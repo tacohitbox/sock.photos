@@ -86,7 +86,7 @@ button:active {
 
 @media (min-width: 551px) {
   .sock {
-    width: calc(20vw - 1vw);
+    width: calc(33vw - 1vw);
     float: left;
   }
 
@@ -113,13 +113,6 @@ button:active {
     margin: 0.01vh 1vw;
     padding: 5px;
     width: calc(100% - calc(2vw + 10px));
-  }
-}
-
-@media (max-width: 1000px) {
-  .sock {
-    width: 33.3vw !important;
-    float: left;
   }
 }
 
